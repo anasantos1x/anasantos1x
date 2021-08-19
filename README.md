@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anasantos1x
+- 👀 I’m interested in FRONT END E BACK END
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,SQL,NODE,REACT        
+- 📫 How to reach me : @anass.se@gmail.com
